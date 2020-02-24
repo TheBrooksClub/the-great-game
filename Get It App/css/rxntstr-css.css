@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+
+		font-family:Verdana, Geneva, sans-serif;
+
+	}
+p {
+	color: aliceblue;
+
+}
+
+a {
+	color: yellow;
+}
+
+	#container {
+
+		width:auto;
+		height:670px;
+		background-color:#0F0F0F;
+		background-size: auto;
+
+	}
+
+	#box {
+
+		width:80px;
+		height:80px;
+		background-color:red;
+		display:none;
+		position:relative;
+
+	}
+
+	.yourTime {
+
+		color:rgb(255, 255, 255);
+		font-weight:bold;
+
+	}
+
+	#titleBar {
+
+		border-radius: auto;
+		background-color: blue;
+		color: antiquewhite;
+		border: 5px solid black;
+
+	}
+	.scoreTop {
+
+	text-align:center;
+	color:#F3F3F3;
+
+}
